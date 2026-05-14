@@ -1,6 +1,7 @@
 ---
 title: Get IP from CI activity
 description: This workflow activity determines the IPV4 address associated with a configuration item \(CI\).
+description: The Get IP from CI flow activity gathers the IP address from configuration items \(CIs\) to use in the flow.
 locale: en-US
 release: australia
 topic_type: reference
@@ -11,9 +12,18 @@ breadcrumb: [Common Security Operations integration flows and orchestration acti
 
 # Get IP from CI activity
 
-This workflow activity determines the IPV4 address associated with a configuration item \(CI\).
+The Get IP from CI flow activity gathers the IP address from configuration items \(CIs\) to use in the flow.
 
-The **Get IP from CI** activity can be used with any workflow to retrieve the IPv4 address of a CI.
+The Get IP from CI activity can be used with any flow to gather configuration item \(CI\) IP addresses to use in the flow.
+
+## Results
+
+Possible results for this activity are:
+
+|Result|Description|
+|------|-----------|
+|Success|Found IP addresses.|
+|Failure|No IP addresses found. More error information is available in the activity output error.|
 
 ## Input variables
 
@@ -21,7 +31,7 @@ Input variables determine the initial behavior of the activity.
 
 |Variable|Description|
 |--------|-----------|
-|ci\_sys\_id \[string\]|Configuration item system identifier|
+|ci\_sys\_id|Configuration item identifier.|
 
 ## Output variables
 
@@ -29,16 +39,7 @@ The output variables contain data that can be used in subsequent activities.
 
 |Variable|Description|
 |--------|-----------|
-|ip\_addr \[string\]|IPv4 address. If the IP address cannot be determined, this value is empty.|
-
-## Exit Conditions
-
-Possible results for this activity are:
-
-|Condition|Description|
-|---------|-----------|
-|Success|An IPv4 address was returned.|
-|Failure|An IPv4 address could not be determined.|
+|ip\_addr|IP addresses.|
 
 **Parent Topic:**[Common Security Operations integration flows and orchestration activities](../../security-operations-common/concept/common-wf-activities.md)
 
