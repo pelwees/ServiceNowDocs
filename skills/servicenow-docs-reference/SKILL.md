@@ -11,9 +11,9 @@
 | Branch | Status | Default |
 |---|---|---|
 | `australia` | Nieuwste / current | ✓ |
-| `xanadu` | Vorige versie | — |
-| `yokohama` | Ouder | — |
-| `zurich` | Oudste | — |
+| `xanadu` | Ouder | — |
+| `yokohama` | Oudste  | — |
+| `zurich` | Vorige versie  | — |
 
 **Default branch:** `australia` — tenzij je een andere versie specificeert.
 
