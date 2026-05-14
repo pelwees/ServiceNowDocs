@@ -22,24 +22,20 @@
 ## Structuur
 
 Elke branch volgt dezelfde opbouw:
+```
 /
-├── README.md (root inhoudsopgave, links naar sub-folders)
-├── integration-hub/
-│   ├── index.md (overzicht + links naar sub-topics)
-│   ├── fundamentals.md
-│   ├── flows.md
-│   └── ...
-├── scripting/
-│   ├── index.md
-│   ├── script-includes.md
-│   ├── business-rules.md
-│   └── ...
-├── api-reference/ (⚠️ zeer groot, ~100K+ lines)
-│   ├── index.md
-│   ├── rest-api.md
-│   ├── glide-api.md
-│   └── ... (veel sub-docs)
-└── ...
+├── README.md                  (inhoudsopgave met absolute raw-URLs naar alle publicaties)
+├── markdown/
+│   ├── integration-hub/
+│   │   ├── index.md
+│   │   └── ...
+│   ├── api-reference/         (⚠️ zeer groot, ~100K+ lines)
+│   │   ├── index.md
+│   │   └── ...
+│   └── <publicatie-folder>/
+│       ├── index.md
+│       └── ...
+```
 
 ---
 
@@ -47,16 +43,24 @@ Elke branch volgt dezelfde opbouw:
 
 **Workflow:**
 
-1. **Root README** voor inhoudsopgave:
-https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/README.md
+1. **Root README** ophalen voor inhoudsopgave (bevat absolute raw-URLs):
+   ```
+   https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/README.md
+   ```
 
-2. **Sub-folder index** voor topic-overzicht:
-https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/integration-hub/index.md
+2. **URL voor gewenste publicatie** staat letterlijk in de README — direct ophalen:
+   ```
+   https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/index.md
+   ```
 
-3. **Specifiek document:**
-https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/integration-hub/flows.md
+3. **Specifiek sub-document** via link in de index:
+   ```
+   https://raw.githubusercontent.com/pelwees/ServiceNowDocs/australia/markdown/integrate-applications/integrationhub.md
+   ```
 
 **Versie-wisselen:** Vervang `australia` in URL door `xanadu` / `yokohama` / `zurich`.
+
+> **Belangrijk:** Construeer URLs nooit zelf op basis van aannames. Haal altijd eerst de README op en gebruik de URLs die daar letterlijk in staan. Geconstrueerde URLs worden geblokkeerd door het fetch-mechanisme.
 
 ---
 
@@ -94,5 +98,6 @@ Wanneer gelinkt in Claude project:
 
 - Alle docs zijn Markdown, web_fetch-friendly
 - Geen auth nodig (public repo)
+- README bevat absolute raw-URLs — geen URL-constructie nodig
 - Wijzigingen push je naar GitHub, automatisch beschikbaar
-- API Reference is voortdurend groeien/wijzigen → altijd versie-aware
+- API Reference groeit voortdurend → altijd versie-aware
